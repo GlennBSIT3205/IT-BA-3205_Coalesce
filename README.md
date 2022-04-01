@@ -40,7 +40,7 @@ This project is essential, especially for the education of every human being, th
 
 This study will conduct a series of comparisons between variables set in the statement of the problems. The first objective of this report is to examine the data available. The second objective is to provide a quantitative and qualitative comparison of the education systems during the pandemic and pre-pandemic era. This study will also provide insight into areas that need attention, according to identified deficiencies in the education systems. The data collected from the Philippines will be reviewed to provide a clear understanding between  teachers' and students' context and their experiences during 2017-2020. A scenario analysis using scenario building was conducted as a result of this information, which identified the key strategic actions for teaching and learning continuity that needed to be taken.
 
-**Expected output
+## Expected output
  
 The COVID-19 pandemic wreaked havoc on the world in unthinkable ways. Looking back over the last two years and the devastating effects of the pandemic that continues today, it is clear that one of the devastated areas was education. Neither the world nor educational institutions were prepared to welcome the rapid move to digital platforms. 
  
