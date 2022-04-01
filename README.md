@@ -34,4 +34,9 @@ This project is essential, especially for the education of every human being, th
 
 - To the Government (CHED, DepEd), this study shall seek the help of the government officials in facilitating schools on how to implement new learning strategies effectively. 
 
-- To the Community, this study shall help enlighten them in the situation faced by educators and students.
+- To the Community, this study shall helps enlighten them in the situation faced by educators and students.
+
+## Methods
+
+This study will conduct a series of comparisons between variables set in the statement of the problems. The first objective of this report is to examine the data available. The second objective is to provide a quantitative and qualitative comparison of the education systems during the pandemic and pre-pandemic era. This study will also provide insight into areas that need attention, according to identified deficiencies in the education systems. The data collected from the Philippines will be reviewed to provide a clear understanding between  teachers' and students' context and their experiences during 2017-2020. A scenario analysis using scenario building was conducted as a result of this information, which identified the key strategic actions for teaching and learning continuity that needed to be taken.
+
