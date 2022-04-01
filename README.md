@@ -51,11 +51,17 @@ Major Issues:
 Pre-Pandemic Issues
  
 -Technology gaps – There is a technological gap in the Philippines' local schools caused by a "lack of distribution of resources to the poverty line." Children in lower-income areas will not get the same educational assistance as students from higher-income areas if enough resources are not available.
+
 -Budget – The country remains to have one of the lowest budget allotments to learning among ASEAN countries.
+
 -Cost – There still is a big contrast in learning efforts across various social groups due to the issue of money—having education as a status symbol.
+
 -Mismatch – There is a large sum of people who are jobless or underpaid due to a large mismatch between training and actual jobs.
+
 -Social divide – There is no fair learning access in the country.
--Lack of resources – Large-scale shortfalls in classrooms, teachers, and other tools to sustain sound learning also make up a big issue..
+
+-Lack of resources – Large-scale shortfalls in classrooms, teachers, and other tools to sustain sound learning also make up a big issue.
+
 -Unfavorable geographical position- Some countries lack the needed infrastructure or are located in the parts of the world with severe climate which makes commuting to school significantly more difficult.
  
 
