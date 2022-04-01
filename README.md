@@ -40,3 +40,23 @@ This project is essential, especially for the education of every human being, th
 
 This study will conduct a series of comparisons between variables set in the statement of the problems. The first objective of this report is to examine the data available. The second objective is to provide a quantitative and qualitative comparison of the education systems during the pandemic and pre-pandemic era. This study will also provide insight into areas that need attention, according to identified deficiencies in the education systems. The data collected from the Philippines will be reviewed to provide a clear understanding between  teachers' and students' context and their experiences during 2017-2020. A scenario analysis using scenario building was conducted as a result of this information, which identified the key strategic actions for teaching and learning continuity that needed to be taken.
 
+**Expected output
+ 
+The COVID-19 pandemic wreaked havoc on the world in unthinkable ways. Looking back over the last two years and the devastating effects of the pandemic that continues today, it is clear that one of the devastated areas was education. Neither the world nor educational institutions were prepared to welcome the rapid move to digital platforms. 
+ 
+This study will provide information on enrolled students from 2017 to 2020. It will serve as evidence to support better educational curriculum and practices, resulting in a greater enrollment rate and improved student well-being. We utilized the students' performance as a foundation, especially college students who have been exposed to alternative learning since they are more experienced and can adapt to adjust to the new educational system. This approach to a new educational system addresses various issues, including the provision of high-quality teaching which is not just an end in itself, but also a means to other worthwhile goals.
+
+Major Issues:
+ 
+Pre-Pandemic Issues
+ 
+-Technology gaps – There is a technological gap in the Philippines' local schools caused by a "lack of distribution of resources to the poverty line." Children in lower-income areas will not get the same educational assistance as students from higher-income areas if enough resources are not available.
+-Budget – The country remains to have one of the lowest budget allotments to learning among ASEAN countries.
+-Cost – There still is a big contrast in learning efforts across various social groups due to the issue of money—having education as a status symbol.
+-Mismatch – There is a large sum of people who are jobless or underpaid due to a large mismatch between training and actual jobs.
+-Social divide – There is no fair learning access in the country.
+-Lack of resources – Large-scale shortfalls in classrooms, teachers, and other tools to sustain sound learning also make up a big issue..
+-Unfavorable geographical position- Some countries lack the needed infrastructure or are located in the parts of the world with severe climate which makes commuting to school significantly more difficult.
+ 
+
+
