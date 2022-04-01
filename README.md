@@ -23,3 +23,15 @@ This research aims to look at the education systems of the Philippines during th
 3. The educational methods utilized by schools in the Philippines as they shift from face-to-face classes to online learning. 
 
 Academics should be a priority in school because education is an efficient requirement to achieve their goals. However, students need to learn how to balance their academic and social lives. Having an equal part in academics, extracurricular activities, and socialization is the right approach to excelling at school. It also makes students happier and helps them form real-life skills through interactions with other people. It is time we rethink our educational system to give students enough time to pursue various interests and learn the tools they need to become productive citizens.
+
+## Significance of the proposed project
+
+This project is essential, especially for the education of every human being, their educational attainment, and significant specialization.
+
+- To the Students, this study explains the importance of education to help them transition to the new normal. This includes the percentage of the students enrolled and studying.
+
+- To the Teachers, this study shall include the shifting of teaching from in-person to online classes and how the teaching pattern and techniques can be improved so that the students can quickly adapt.
+
+- To the Government (CHED, DepEd), this study shall seek the help of the government officials in facilitating schools on how to implement new learning strategies effectively. 
+
+- To the Community, this study shall help enlighten them in the situation faced by educators and students.
