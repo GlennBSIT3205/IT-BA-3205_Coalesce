@@ -12,6 +12,7 @@ The majority of the problems in the Philippines' education system are caused by 
 
 The Philippines does not invest in high-quality education. Despite the digital era, many public schools lack computers and other equipment. A shortage of public school teachers is one of the country's most pressing challenges, owing to their status as the lowest-paid state employees. Aside from that, more than 3 million children, teenagers, and adults have been left out of school since the closure. Living in a perpetual state of crisis has long-term consequences. Misinformation, as well as poor decision-making and other societal issues, are examples of these.
 
+Students' performance stems from different factors such as rest and sleep, mental health, and enriching activities. The majority of the education system in the Philippines usually starts at 7 a.m and usually ends around 4p.m, with the class being too early and the course being too long. It affects students' performance to focus and be productive alongside the long class hours. The class hours usually take the majority of the students' time and do not even include the homework and other activities provided by the school and its professors; this, in turn, affects the rest and after-school activities of students, which leads to a conflict of schedule. Although students spending more time in school does not equate to being educated, recent studies show increased pressure and stress on students' well being.
 
 ## Statement of the Problem
 
