@@ -24,7 +24,7 @@ This research aims to look at the education systems of the Philippines during th
 
 Academics should be a priority in school because education is an efficient requirement to achieve their goals. However, students need to learn how to balance their academic and social lives. Having an equal part in academics, extracurricular activities, and socialization is the right approach to excelling at school. It also makes students happier and helps them form real-life skills through interactions with other people. It is time we rethink our educational system to give students enough time to pursue various interests and learn the tools they need to become productive citizens.
 
-## Significance of the proposed project
+**Significance of the proposed project**
 
 This project is essential, especially for the education of every human being, their educational attainment, and significant specialization.
 
@@ -36,7 +36,7 @@ This project is essential, especially for the education of every human being, th
 
 - To the Community, this study shall helps enlighten them in the situation faced by educators and students.
 
-## Methods
+**Methods**
 
 The researcher will be using the datasets provided by the Commission on Higher Education (CHED) to analyze the statistics of enrollment and graduates in State Universities and Colleges (SUCs). This study will conduct a series of comparisons between the variables set out in the statement of the problems. The first objective of this report is to examine the data available. The second objective is to provide a quantitative and qualitative comparison of the education systems during the pandemic and pre-pandemic eras. This study will also provide insight into areas that need attention due to identified deficiencies in the education system. This analysis aims to identify problems and shortcomings in education in the Philippines and consider potential solutions. The data collected will be reviewed to clearly understand the teachers' and students' contexts and their experiences during 2017–2020. A scenario analysis using scenario building was conducted due to this information, which identified the key strategic actions for teaching and learning continuity that needed to be taken.
 
