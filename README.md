@@ -46,6 +46,8 @@ The COVID-19 pandemic wreaked havoc on the world in unthinkable ways. Looking ba
  
 The purpose of this study is to develop fact-based data that will be utilized to properly comprehend the pre-pandemic education and today, and  its impact on learning. This project aims to improve the data collected and simplify the data into easier-to-digest information. We were able to provide information on enrolled students from 2017 to 2020. It will serve as evidence to support better educational curriculum and practices, resulting in a greater enrollment rate. We've utilized the number of college students, especially those who have been exposed to alternative learning, as a foundation for our new educational system. This is because these students are more experienced and can adapt to adjust to the new educational system. This approach to a new educational system addresses various issues, including the provision of high-quality teaching which is not just an end in itself, but also a means to other worthwhile goals. 
 
+This will also give a better picture on the effects, causes, and potential solutions to the education system in the Philippines. Based on the data gathered, the proponents will create policies and suggestions for an action plan to help enhance the current educational system. The findings address statistical shifts when schools in the Philippines transition from face-to-face to online classes. It will provide conclusions and recommendations, primarily to the government and students.
+
 ## Sustainable Development Goal (SDG) of the Project
 
 The SDG that this project aims to attain is Quality Education. This SDG is further described as follows:
