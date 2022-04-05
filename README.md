@@ -18,9 +18,9 @@ Students' performance stems from different factors such as rest and sleep, menta
 
 This research aims to look at the education systems of the Philippines during the pandemic and compare them to pre-pandemic eras. This study aims to determine the following:
 
-1. The efficiency of the education system.
+1. The number of students, State Universities, and  Colleges per region.
 2. The statistics of enrollment and graduates in State Universities and Colleges.
-3. The educational methods utilized by schools in the Philippines as they shift from face-to-face classes to online learning. 
+3. The statistical change as schools in the Philippines shift from face-to-face classes to online learning. 
 
 Academics should be a priority in school because education is an efficient requirement to achieve their goals. However, students need to learn how to balance their academic and social lives. Having an equal part in academics, extracurricular activities, and socialization is the right approach to excelling at school. It also makes students happier and helps them form real-life skills through interactions with other people. It is time we rethink our educational system to give students enough time to pursue various interests and learn the tools they need to become productive citizens.
 
