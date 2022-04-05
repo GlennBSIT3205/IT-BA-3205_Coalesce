@@ -22,7 +22,7 @@ This research aims to look at the education systems of the Philippines during th
 2. The statistics of enrollment and graduates in State Universities and Colleges.
 3. The statistical change as schools in the Philippines shift from face-to-face classes to online learning. 
 
-Academics should be a top emphasis in school because it is the most efficient way to attain their objectives. Students, on the other hand, must learn to balance their academic and social life. The right strategy to success at school is to participate equally in academics, extracurricular activities, and socialization. It also makes pupils happier and helps them develop real-life skills by allowing them to engage with others. It's past time for us to restructure our educational system so that children have ample time to explore their varied interests while also learning the skills they'll need to be effective citizens.
+Academics should be a priority in school because education is an efficient requirement to achieve their goals. However, students need to learn how to balance their academic and social lives. Having an equal part in academics, extracurricular activities, and socialization is the right approach to excelling at school. It also makes students happier and helps them form real-life skills through interactions with other people. It is time we rethink our educational system to give students enough time to pursue various interests and learn the tools they need to become productive citizens.
 
 ## Significance of the proposed project
 
