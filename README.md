@@ -50,7 +50,7 @@ This will also give a better picture on the effects, causes, and potential solut
 
 ## Sustainable Development Goal (SDG) of the Project
 
-The SDG that this project aims to attain is Quality Education. This SDG is further described as follows:
+The SDG that this project aims to attain is Quality Education. This SDG is further described as follow:
 
 Goal 4: Quality Education - aims to ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.
 
