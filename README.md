@@ -48,7 +48,7 @@ The purpose of this study is to develop fact-based data that will be utilized to
 
 This will also give a better picture on the effects, causes, and potential solutions to the education system in the Philippines. Based on the data gathered, the proponents will create policies and suggestions for an action plan to help enhance the current educational system. The findings address statistical shifts when schools in the Philippines transition from face-to-face to online classes. It will provide conclusions and recommendations, primarily to the government and students.
 
-## Sustainable Development Goal (SDG) of the Project
+Sustainable Development Goal (SDG) of the Project
 
 The SDG that this project aims to attain is Quality Education. This SDG is further described as follows:
 
