@@ -34,7 +34,7 @@ This project is essential, especially for the education of every human being, th
 
 - To the Government (CHED, DepEd), this study shall seek the help of the government officials in facilitating schools on how to implement new learning strategies effectively. 
 
-- To the Filipino Citizens, this study shall helps enlighten them in the situation faced by educators and students.
+- To the Community, this study shall helps enlighten them in the situation faced by educators and students.
 
 ## Methods
 
