@@ -45,25 +45,11 @@ The researcher will be using the datasets provided by the Commission on Higher E
  
 The COVID-19 pandemic wreaked havoc on the world in unthinkable ways. Looking back over the last two years and the devastating effects of the pandemic that continues today, it is clear that one of the devastated areas was education. Neither the world nor educational institutions were prepared to welcome the rapid move to digital platforms. 
  
-This study will provide information on enrolled students from 2017 to 2020. It will serve as evidence to support better educational curriculum and practices, resulting in a greater enrollment rate and improved student well-being. We utilized the students' performance as a foundation, especially college students who have been exposed to alternative learning since they are more experienced and can adapt to adjust to the new educational system. This approach to a new educational system addresses various issues, including the provision of high-quality teaching which is not just an end in itself, but also a means to other worthwhile goals.
+The purpose of this study is to develop fact-based data that will be utilized to properly comprehend the pre-pandemic education and today, and  its impact on learning. This project aims to improve the data collected and simplify the data into easier-to-digest information. We were able to provide information on enrolled students from 2017 to 2020. It will serve as evidence to support better educational curriculum and practices, resulting in a greater enrollment rate. We've utilized the number of college students, especially those who have been exposed to alternative learning, as a foundation for our new educational system. This is because these students are more experienced and can adapt to adjust to the new educational system. This approach to a new educational system addresses various issues, including the provision of high-quality teaching which is not just an end in itself, but also a means to other worthwhile goals. 
 
-Major Issues:
- 
-Pre-Pandemic Issues
- 
-- Technology gaps – There is a technological gap in the Philippines' local schools caused by a "lack of distribution of resources to the poverty line." Children in lower-income areas will not get the same educational assistance as students from higher-income areas if enough resources are not available.
+This will also give a better picture on the effects, causes, and potential solutions to the education system in the Philippines. Based on the data gathered, the proponents will create policies and suggestions for an action plan to help enhance the current educational system. The findings address statistical shifts when schools in the Philippines transition from face-to-face to online classes. It will provide conclusions and recommendations, primarily to the government and students.
 
-- Budget – The country remains to have one of the lowest budget allotments to learning among ASEAN countries.
 
-- Cost – There still is a big contrast in learning efforts across various social groups due to the issue of money—having education as a status symbol.
 
-- Mismatch – There is a large sum of people who are jobless or underpaid due to a large mismatch between training and actual jobs.
-
-- Social divide – There is no fair learning access in the country.
-
-- Lack of resources – Large-scale shortfalls in classrooms, teachers, and other tools to sustain sound learning also make up a big issue.
-
-- Unfavorable geographical position- Some countries lack the needed infrastructure or are located in the parts of the world with severe climate which makes commuting to school significantly more difficult.
- 
 
 
