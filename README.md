@@ -21,6 +21,7 @@ This research aims to look at the education systems of the Philippines during th
 1. The number of students, State Universities, and  Colleges per region.
 2. The statistics of enrollment and graduates in State Universities and Colleges.
 3. The statistical change as schools in the Philippines shift from face-to-face classes to online learning. 
+4. The number of enrolled and graduated students by discipline group.
 
 Academics should be a priority in school because education is an efficient requirement to achieve their goals. However, students need to learn how to balance their academic and social lives. Having an equal part in academics, extracurricular activities, and socialization is the right approach to excelling at school. It also makes students happier and helps them form real-life skills through interactions with other people. It is time we rethink our educational system to give students enough time to pursue various interests and learn the tools they need to become productive citizens.
 
