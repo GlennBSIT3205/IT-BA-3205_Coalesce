@@ -60,4 +60,5 @@ The SDG that this project aims to attain is Quality Education. This SDG is furth
 
 Goal 4: Quality Education: aspires to guarantee inclusive and equitable quality education and develop lifelong learning opportunities for everyone.
 
-This SDG is aligned with the comparative analysis between pre-pandemic education and today and its impact on learning. It will provide detailed information and a basis for a better education system. This framework will help the Philippine government address and comply with the lapses of the current educational system and its lack of quality education.
+Our SDG is aligned with the comparative analysis between pre-pandemic education and today and its impact on learning. It will provide detailed information and a basis for a better education system. This framework will help the Philippine government address and comply with the lapses of the current educational system and its lack of quality education.
+
