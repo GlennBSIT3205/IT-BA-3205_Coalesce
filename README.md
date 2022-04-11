@@ -43,6 +43,7 @@ This project is essential, especially for the education of every human being, th
 
 The researcher will be using the datasets provided by the Commission on Higher Education (CHED) to analyze the statistics of enrollment and graduates in State Universities and Colleges (SUCs) and by discipline group. This study will conduct a series of comparisons between the variables set out in the statement of the problems. The first objective of this report is to examine the data available. The second objective is to provide a quantitative and qualitative comparison of the education systems during the pandemic and pre-pandemic eras. This study will also provide insight into areas that need attention due to identified deficiencies in the education system. This analysis aims to identify problems and shortcomings in education in the Philippines and consider potential solutions. The data collected will be reviewed to clearly understand the teachers' and students' contexts. A scenario analysis using scenario building was conducted due to this information, which identified the key strategic actions for teaching and learning continuity that needed to be taken.
 
+
 **Expected output**
  
 The COVID-19 pandemic wreaked havoc on the world in unthinkable ways. Looking back over the last two years and the devastating effects of the pandemic that continues today, it is clear that one of the devastated areas was education. Neither the world nor educational institutions were prepared to welcome the rapid move to digital platforms. 
