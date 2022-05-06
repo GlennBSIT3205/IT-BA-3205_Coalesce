@@ -1,3 +1,5 @@
+![ourheader](https://github.com/GlennBSIT3205/IT-BA-3205_Coalesce/blob/main/header.jpg?raw=true)
+
 # A Comparative Analysis between Pre-Pandemic and Today's Education in the Philippines
 
 **Introduction** 
