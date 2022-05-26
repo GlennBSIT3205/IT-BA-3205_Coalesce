@@ -61,4 +61,4 @@ Goal 4: Quality Education: aspires to guarantee inclusive and equitable quality 
 
 Our SDG is aligned with the comparative analysis between pre-pandemic education and today. It will provide detailed information and a basis for a better education system. This study will help the Philippine government address and comply with the lapses of the current educational system and its lack of quality education.
 
-
+![themembers](https://github.com/GlennBSIT3205/IT-BA-3205_Coalesce/blob/main/members.jpg?raw=true)
