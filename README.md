@@ -20,6 +20,8 @@
 
 ![educ](https://github.com/GlennBSIT3205/IT-BA-3205_Coalesce/blob/main/educ.jpg?raw=true)
  
+<hr>
+ 
  <h3>Statement of the Problem</h3>
 
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;This research aims to look at the education systems of the Philippines during the pandemic and compare them to pre-pandemic eras. This study aims to determine the following:
@@ -29,6 +31,8 @@
 3. The discipline group that has the lowest and highest number of enrolled and graduates.
 
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;Academics should be a priority in school because education is an efficient requirement to achieve their goals. However, students need to learn how to balance their academic and social lives. Having an equal part in academics, extracurricular activities, and socialization is the right approach to excelling at school. It also makes students happier and helps them form real-life skills through interactions with other people. It is time we rethink our educational system to give students enough time to pursue various interests and learn the tools they need to become productive citizens.
+ 
+<hr>
  
  <h3>Significance of the proposed project</h3>
 
@@ -42,10 +46,13 @@
 
   - To the Community, this study shall helps enlighten them in the situation faced by educators and students.
 
+ <hr>
+ 
  <h3>Methods</h3>
 
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;The researcher will be using the datasets provided by the Commission on Higher Education (CHED) to analyze the statistics of enrollment and graduates in State Universities and Colleges (SUCs) and by discipline group. This study will conduct a series of comparisons between the variables set out in the statement of the problems. The first objective of this report is to examine the data available. The second objective is to provide a quantitative and qualitative comparison of the education systems during the pandemic and pre-pandemic eras. This study will also provide insight into areas that need attention due to identified deficiencies in the education system. This analysis aims to identify problems and shortcomings in education in the Philippines and consider potential solutions. The data collected will be reviewed to clearly understand the teachers' and students' contexts. A scenario analysis using scenario building was conducted due to this information, which identified the key strategic actions for teaching and learning continuity that needed to be taken.
 
+ <hr>
 
 <h3>Expected output</h3>
  
@@ -53,8 +60,10 @@
 
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;The purpose of this study is to develop fact-based data that will be utilized to properly comprehend the pre-pandemic education and today, and  its impact on learning. This project aims to improve the data collected and simplify the data into easier-to-digest information. We were able to provide information on enrolled students and graduates from 2017 to 2020 and by their discipline group. It will serve as evidence to support better educational curriculum and practices, resulting in a greater enrollment rate. We've utilized the number of college students, especially those who have been exposed to alternative learning, as a foundation for our new educational system. This is because these students are more experienced and can adapt to adjust to the new educational system. This approach to a new educational system addresses various issues, including the provision of high-quality teaching which is not just an end in itself, but also a means to other worthwhile goals. This will also give a better picture on the effects, causes, and potential solutions to the education system in the Philippines. Based on the data gathered, the proponents will create policies and suggestions for an action plan to help enhance the current educational system. The findings address statistical shifts when schools in the Philippines transition from face-to-face to online classes. It will provide conclusions and recommendations, primarily to the government and students.
 
+ <hr>
+ 
 ![oursdgheader](https://github.com/GlennBSIT3205/IT-BA-3205_Coalesce/blob/main/sdg.jpg?raw=true)
-
+ 
  <h3>Sustainable Development Goal (SDG) of the Project</h3>
 
  <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;The SDG that this project aims to attain is Quality Education. This SDG is further described as follows:
@@ -62,5 +71,7 @@
  <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;Goal 4: Quality Education: aspires to guarantee inclusive and equitable quality education and develop lifelong learning opportunities for everyone.
 
  <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;Our SDG is aligned with the comparative analysis between pre-pandemic education and today. It will provide detailed information and a basis for a better education system. This study will help the Philippine government address and comply with the lapses of the current educational system and its lack of quality education.
+  
+ <hr>
 
 ![themembers](https://github.com/GlennBSIT3205/IT-BA-3205_Coalesce/blob/main/members.jpg?raw=true)
