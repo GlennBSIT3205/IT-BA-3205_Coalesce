@@ -22,15 +22,17 @@
  
 <hr>
  
- <h3>Statement of the Problem</h3>
+ <h3>Problem Statement</h3>
 
-<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;This research aims to look at the education systems of the Philippines during the pandemic and compare them to pre-pandemic eras. This study aims to determine the following:
+<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;The Social Divide
+<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;The nation has a significant and distinct social divide in educational opportunities. On the question of education, most contemporary countries have had an equalizing influence. Because of the aforementioned social system difference, education has become a component of the institutional process that produces a divide between the wealthy and the poor.
+ 
+<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;Finances for Education
+<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;Another challenge facing the Philippine educational system is the education budget. Although the Philippine Constitution requires the government to contribute the most significant funding to education, the Philippines has one of the minor budget allocations to education among ASEAN nations.
+ 
+<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;Dropout Rate (Out-of-school youth)
+<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;France Castro, secretary of the Alliance of Concerned Teachers (ACT), emphasized that addressing the rising number of out-of-school youth is imperative. According to UNESCO data, there are 1.4 million out-of-school youth in the Philippines, making it the only ASEAN nation in the top five countries with the most significant number of out-of-school youth. In 2012, the Department of Education reported a primary school dropout rate of 6.38 percent and a secondary school dropout rate of 7.82 percent. Castro went on to say that "The rising number of children who are not in school is a result of poverty. The price rises of oil, power, food, water and other necessities further impoverish the poor." As a result, the number of students enrolling in public schools grows, particularly at the high school level, as more families fall into poverty. The Department of Education reported 38,503 primary schools and 7,470 secondary schools in 2013.
 
-1. The statistics number of enrolled and graduates in State Universities and Colleges.
-2. The statistical change as schools in the Philippines shift from face-to-face classes to online learning. 
-3. The discipline group that has the lowest and highest number of enrolled and graduates.
-
-<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;Academics should be a priority in school because education is an efficient requirement to achieve their goals. However, students need to learn how to balance their academic and social lives. Having an equal part in academics, extracurricular activities, and socialization is the right approach to excelling at school. It also makes students happier and helps them form real-life skills through interactions with other people. It is time we rethink our educational system to give students enough time to pursue various interests and learn the tools they need to become productive citizens.
  
 <hr>
  
