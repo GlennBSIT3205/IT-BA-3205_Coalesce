@@ -18,7 +18,7 @@
 
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;Students' performance stems from different factors such as rest and sleep, mental health, and enriching activities. The majority of the education system in the Philippines usually starts at 7 a.m and usually ends around 4p.m, with the class being too early and the course being too long. It affects students' performance to focus and be productive alongside the long class hours. The class hours usually take the majority of the students' time and do not even include the homework and other activities provided by the school and its professors; this, in turn, affects the rest and after-school activities of students, which leads to a conflict of schedule. Although students spending more time in school does not equate to being educated, recent studies show increased pressure and stress on students' well being.
 
-![intro](https://github.com/GlennBSIT3205/IT-BA-3205_Coalesce/blob/main/intro.jpg?raw=true)
+![intro](https://github.com/GlennBSIT3205/IT-BA-3205_Coalesce/blob/main/FOR%20README/intro.jpg?raw=true)
  
 <hr>
  
