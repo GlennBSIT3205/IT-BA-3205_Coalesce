@@ -1,4 +1,4 @@
-![ourheader](https://github.com/GlennBSIT3205/IT-BA-3205_Coalesce/blob/main/header.jpg?raw=true)
+![ourheader](https://github.com/GlennBSIT3205/IT-BA-3205_Coalesce/blob/main/FOR%20README/header.jpg?raw=true)
 
 <h1 align="center"> A Comparative Analysis between Pre-Pandemic and Today's Education on the SUC's in the Philippines
 
