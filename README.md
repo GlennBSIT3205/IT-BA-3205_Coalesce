@@ -77,3 +77,5 @@
  <hr>
 
 ![themembers](https://github.com/GlennBSIT3205/IT-BA-3205_Coalesce/blob/main/members.jpg?raw=true)
+ Live Presentation https://youtu.be/33hElpI7WmE
+ Final Presentation https://youtu.be/BxjVYAEvK0Y
