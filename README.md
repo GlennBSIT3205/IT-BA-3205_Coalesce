@@ -64,7 +64,7 @@
 
  <hr>
  
-![oursdgheader](https://github.com/GlennBSIT3205/IT-BA-3205_Coalesce/blob/main/sdg.jpg?raw=true)
+![oursdgheader](https://github.com/GlennBSIT3205/IT-BA-3205_Coalesce/blob/main/FOR20%README/sdg.jpg?raw=true)
  
  <h3>Sustainable Development Goal (SDG) of the Project</h3>
 
@@ -76,7 +76,7 @@
   
  <hr>
 
-![themembers](https://github.com/GlennBSIT3205/IT-BA-3205_Coalesce/blob/main/members.jpg?raw=true)
+![themembers](https://github.com/GlennBSIT3205/IT-BA-3205_Coalesce/blob/main/FOR20%README/members.jpg?raw=true)
  <h3>Live Presentation</h3>
  Link: https://youtu.be/33hElpI7WmE
  <h3>Final Presentation</h3>
