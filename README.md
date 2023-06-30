@@ -77,7 +77,3 @@ COVID-19 has escalated and aggravated education concerns in the Philippines. Wit
  <hr>
 
 ![themembers](https://github.com/GlennBSIT3205/IT-BA-3205_Coalesce/blob/main/FOR%20README/members.jpg?raw=true)
- <h3>Live Presentation</h3>
- Link: https://youtu.be/33hElpI7WmE
- <h3>Final Presentation</h3>
- Link: https://youtu.be/BxjVYAEvK0Y
